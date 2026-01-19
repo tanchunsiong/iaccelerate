@@ -104,7 +104,7 @@ MIT License
 
 ## Links
 
-- Blog post: [www.tanchunsiong.com](https://www.tanchunsiong.com)
+- Blog post: [iAccelerate: Vehicle Performance Analyzer with USB Accelerometer](https://www.tanchunsiong.com/2008/02/iaccelerate-vehicle-performance-analyzer-with-usb-accelerometer/)
 - GitHub: [github.com/tanchunsiong](https://github.com/tanchunsiong)
 - LinkedIn: [linkedin.com/in/tanchunsiong](https://linkedin.com/in/tanchunsiong)
 - X: [x.com/tanchunsiong](https://x.com/tanchunsiong)
